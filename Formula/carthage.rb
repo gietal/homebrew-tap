@@ -13,7 +13,7 @@ class Carthage < Formula
     root_url "https://github.com/gietal/homebrew-tap/blob/master"
 #    sha256 cellar: :any_skip_relocation, arm64_big_sur: "a8dda58b245591307897cc3ce4f421350f319e5c9fd66ebfa8f8d45b0d031581"
 #    sha256 cellar: :any_skip_relocation, big_sur:       "39fe319f00259c08fcc6d0ca66c0b2240aa9f1b0f2d00f2a6b61d7c7d367b4f8"
-    sha256 cellar: :any_skip_relocation, catalina:      "7de2a7d02073b26de2f0f161a3941e83d9f25d1129d4f5900490727f12324bda"
+    sha256 cellar: :any_skip_relocation, catalina:      "b5b262a120ce2475d87671a804dc4736a25cccd261b908ca2f17b191de1e3bc4"
 #    sha256 cellar: :any_skip_relocation, mojave:        "334d9982e33f71850b1f467a170ab5c7c050f49a3c9f2429d7db4ac1450d975b"
   end
 
