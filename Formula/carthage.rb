@@ -10,7 +10,7 @@ class Carthage < Formula
 
   bottle do
     #root_url "https://homebrew.bintray.com/bottles"
-    root_url "https://github.com/gietal/homebrew-tap"
+    root_url "https://github.com/gietal/homebrew-tap/blob/master"
 #    sha256 cellar: :any_skip_relocation, arm64_big_sur: "a8dda58b245591307897cc3ce4f421350f319e5c9fd66ebfa8f8d45b0d031581"
 #    sha256 cellar: :any_skip_relocation, big_sur:       "39fe319f00259c08fcc6d0ca66c0b2240aa9f1b0f2d00f2a6b61d7c7d367b4f8"
     sha256 cellar: :any_skip_relocation, catalina:      "7de2a7d02073b26de2f0f161a3941e83d9f25d1129d4f5900490727f12324bda"
